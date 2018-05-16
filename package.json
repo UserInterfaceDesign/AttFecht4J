@@ -1,0 +1,22 @@
+{
+  "name": "jira-file-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jira-file-fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "csv": "^2.0.0",
+    "download": "^6.2.5",
+    "exceljs": "^1.1.0",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "node-xlsx": "^0.12.0",
+    "prompt": "^1.0.0",
+    "request": "^2.85.0"
+  }
+}
